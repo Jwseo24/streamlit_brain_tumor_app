@@ -1,5 +1,11 @@
 # Brain Tumor MRI Classification App 🧠
 
+[![Python](https://img.shields.io/badge/Python-3.x-blue.svg)](https://python.org)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange.svg)](https://tensorflow.org)
+[![Streamlit](https://img.shields.io/badge/Streamlit-Latest-red.svg)](https://streamlit.io/)
+[![EfficientNet](https://img.shields.io/badge/EfficientNet-B0-green.svg)](https://keras.io/api/applications/efficientnet/)
+[![OpenCV](https://img.shields.io/badge/OpenCV-Latest-blue.svg)](https://opencv.org/)
+
 A Streamlit web application that uses deep learning models to classify brain tumor MRI scans into four different categories: glioma, meningioma, no tumor, and pituitary tumor.
 
 ## Project Overview 🔍
